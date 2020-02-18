@@ -1,6 +1,6 @@
-# Project Name
+# FreeRTOS Uebung1
 
-FreeRTOS Uebung1
+Übung 1
 
 ## Installation
 
