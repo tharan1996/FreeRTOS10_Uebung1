@@ -25,7 +25,6 @@ TODO: Write history
 ## Credits
 
 Initial from Goran
-Edited by Hüseyin
 
 ## License
 
